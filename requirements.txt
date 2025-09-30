@@ -1,7 +1,7 @@
-streamlit==1.27.0
-pandas==2.1.0
-numpy==1.26.0
-efficient-apriori==1.1.2
-fpdf==1.7.2
-scipy==1.12.0
-tqdm==4.66.1
+streamlit
+pandas
+numpy
+efficient-apriori
+fpdf
+scipy
+tqdm
